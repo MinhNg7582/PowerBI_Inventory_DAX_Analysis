@@ -1,0 +1,100 @@
+"order_date";"product_id";"product_name";"unit_price";"availability";"demand"
+"11-11-2024";18;"VR Headset";399.99;31;43
+"13-11-2024";17;"Action Camera";169.99;38;50
+"28-10-2025";14;"Coffee Maker";59.99;34;46
+"14-10-2025";11;"Noise-Canceling Headphones";89.99;38;50
+"20-03-2025";13;"Air Purifier";119.99;37;49
+"16-05-2024";20;"Smart Thermostat";129.99;25;37
+"26-05-2025";17;"Action Camera";169.99;26;38
+"01-05-2025";18;"VR Headset";399.99;37;49
+"09-02-2024";2;"Bluetooth Headphones";39.99;29;41
+"30-10-2025";19;"Bluetooth Speaker";39.99;35;47
+"08-06-2025";11;"Noise-Canceling Headphones";89.99;0;12
+"10-07-2025";2;"Bluetooth Headphones";39.99;37;48
+"06-12-2026";15;"LED Desk Lamp";18.99;38;49
+"11-01-2026";8;"Digital Camera";299.99;26;37
+"14-06-2024";3;"4K Smart TV";499.99;29;40
+"07-02-2026";17;"Action Camera";169.99;32;43
+"13-09-2024";19;"Bluetooth Speaker";39.99;45;56
+"27-01-2024";19;"Bluetooth Speaker";39.99;36;47
+"24-03-2026";8;"Digital Camera";299.99;29;40
+"05-11-2025";15;"LED Desk Lamp";18.99;42;53
+"18-07-2026";16;"Wireless Charger";22.99;25;36
+"05-11-2025";12;"Electric Toothbrush";49.99;31;41
+"30-09-2025";15;"LED Desk Lamp";18.99;36;46
+"28-09-2026";1;"Wireless Mouse";15.99;30;40
+"26-02-2024";1;"Wireless Mouse";15.99;30;40
+"11-07-2024";16;"Wireless Charger";22.99;39;49
+"29-06-2025";4;"Portable Charger";25.49;36;46
+"20-10-2026";20;"Smart Thermostat";129.99;26;36
+"21-04-2024";15;"LED Desk Lamp";18.99;34;44
+"29-09-2024";16;"Wireless Charger";22.99;34;44
+"01-05-2025";1;"Wireless Mouse";15.99;25;35
+"11-10-2024";8;"Digital Camera";299.99;26;36
+"05-05-2026";7;"Phone Case";12.99;26;36
+"13-03-2024";3;"4K Smart TV";499.99;27;37
+"24-02-2025";8;"Digital Camera";299.99;38;48
+"19-10-2025";3;"4K Smart TV";499.99;45;55
+"29-09-2024";4;"Portable Charger";25.49;28;37
+"28-07-2025";20;"Smart Thermostat";129.99;35;44
+"13-01-2026";17;"Action Camera";169.99;29;38
+"23-07-2024";12;"Electric Toothbrush";49.99;37;46
+"19-06-2025";10;"Tablet";249.99;39;48
+"25-01-2024";20;"Smart Thermostat";129.99;37;46
+"30-12-2026";8;"Digital Camera";299.99;35;44
+"25-11-2024";15;"LED Desk Lamp";18.99;32;41
+"25-07-2024";19;"Bluetooth Speaker";39.99;31;40
+"10-10-2024";2;"Bluetooth Headphones";39.99;34;43
+"19-08-2024";6;"Laptop Stand";29.99;0;9
+"08-12-2025";8;"Digital Camera";299.99;0;9
+"05-08-2025";20;"Smart Thermostat";129.99;31;39
+"04-04-2025";4;"Portable Charger";25.49;36;44
+"19-05-2024";5;"Gaming Keyboard";79.99;38;46
+"25-05-2024";14;"Coffee Maker";59.99;30;38
+"28-06-2024";4;"Portable Charger";25.49;44;52
+"19-12-2026";15;"LED Desk Lamp";18.99;37;45
+"12-01-2025";11;"Noise-Canceling Headphones";89.99;30;38
+"17-08-2025";3;"4K Smart TV";499.99;33;41
+"04-02-2026";7;"Phone Case";12.99;43;51
+"29-11-2025";14;"Coffee Maker";59.99;26;34
+"24-01-2026";11;"Noise-Canceling Headphones";89.99;30;38
+"27-02-2025";12;"Electric Toothbrush";49.99;29;37
+"29-01-2026";11;"Noise-Canceling Headphones";89.99;44;52
+"03-07-2026";10;"Tablet";249.99;0;8
+"13-02-2026";12;"Electric Toothbrush";49.99;0;8
+"29-09-2025";9;"Smartwatch";199.99;34;41
+"12-12-2024";13;"Air Purifier";119.99;25;32
+"07-02-2024";11;"Noise-Canceling Headphones";89.99;31;38
+"15-09-2025";9;"Smartwatch";199.99;40;47
+"30-07-2026";14;"Coffee Maker";59.99;29;36
+"17-06-2026";18;"VR Headset";399.99;28;35
+"04-09-2025";11;"Noise-Canceling Headphones";89.99;38;45
+"09-03-2024";17;"Action Camera";169.99;43;50
+"24-08-2024";17;"Action Camera";169.99;39;46
+"02-08-2024";16;"Wireless Charger";22.99;31;38
+"29-05-2025";14;"Coffee Maker";59.99;41;48
+"25-12-2024";1;"Wireless Mouse";15.99;28;35
+"27-10-2026";7;"Phone Case";12.99;26;33
+"20-03-2024";20;"Smart Thermostat";129.99;29;36
+"21-04-2026";14;"Coffee Maker";59.99;45;52
+"21-05-2025";10;"Tablet";249.99;25;32
+"29-01-2026";6;"Laptop Stand";29.99;0;7
+"13-04-2025";17;"Action Camera";169.99;0;7
+"23-07-2026";18;"VR Headset";399.99;43;38
+"21-08-2024";16;"Wireless Charger";22.99;33;28
+"15-09-2026";11;"Noise-Canceling Headphones";89.99;35;29
+"21-05-2025";11;"Noise-Canceling Headphones";89.99;32;26
+"13-11-2024";1;"Wireless Mouse";15.99;44;37
+"01-08-2025";17;"Action Camera";169.99;30;22
+"26-08-2026";13;"Air Purifier";119.99;42;33
+"15-05-2026";5;"Gaming Keyboard";79.99;37;28
+"11-01-2024";14;"Coffee Maker";59.99;42;32
+"27-01-2026";13;"Air Purifier";119.99;45;35
+"08-08-2025";7;"Phone Case";12.99;37;26
+"16-09-2024";11;"Noise-Canceling Headphones";89.99;39;28
+"08-10-2025";9;"Smartwatch";199.99;31;20
+"03-11-2025";3;"4K Smart TV";499.99;39;28
+"14-02-2024";7;"Phone Case";12.99;35;23
+"01-07-2024";8;"Digital Camera";299.99;45;33
+"20-12-2025";19;"Bluetooth Speaker";39.99;34;22
+"31-12-2025";1;"Wireless Mouse";15.99;30;18
